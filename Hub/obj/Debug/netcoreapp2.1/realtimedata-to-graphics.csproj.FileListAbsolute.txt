@@ -1,0 +1,6 @@
+/Users/lassetodt/Projects/realtimedata-to-graphics/obj/Debug/netcoreapp2.1/realtimedata-to-graphics.csprojAssemblyReference.cache
+/Users/lassetodt/Projects/realtimedata-to-graphics/obj/Debug/netcoreapp2.1/realtimedata-to-graphics.csproj.CoreCompileInputs.cache
+/Users/lassetodt/Projects/realtimedata-to-graphics/obj/Debug/netcoreapp2.1/realtimedata-to-graphics.RazorAssemblyInfo.cache
+/Users/lassetodt/Projects/realtimedata-to-graphics/obj/Debug/netcoreapp2.1/realtimedata-to-graphics.RazorAssemblyInfo.cs
+/Users/lassetodt/Projects/realtimedata-to-graphics/obj/Debug/netcoreapp2.1/realtimedata-to-graphics.AssemblyInfoInputs.cache
+/Users/lassetodt/Projects/realtimedata-to-graphics/obj/Debug/netcoreapp2.1/realtimedata-to-graphics.AssemblyInfo.cs

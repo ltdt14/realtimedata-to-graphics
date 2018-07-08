@@ -1,0 +1,11 @@
+/Users/lassetodt/Projects/realtimedata-to-graphics/DataSender/obj/Debug/netcoreapp2.1/DataSender.csprojAssemblyReference.cache
+/Users/lassetodt/Projects/realtimedata-to-graphics/DataSender/obj/Debug/netcoreapp2.1/DataSender.csproj.CoreCompileInputs.cache
+/Users/lassetodt/Projects/realtimedata-to-graphics/DataSender/obj/Debug/netcoreapp2.1/DataSender.AssemblyInfoInputs.cache
+/Users/lassetodt/Projects/realtimedata-to-graphics/DataSender/obj/Debug/netcoreapp2.1/DataSender.AssemblyInfo.cs
+/Users/lassetodt/Projects/realtimedata-to-graphics/DataSender/bin/Debug/netcoreapp2.1/DataSender.deps.json
+/Users/lassetodt/Projects/realtimedata-to-graphics/DataSender/bin/Debug/netcoreapp2.1/DataSender.runtimeconfig.json
+/Users/lassetodt/Projects/realtimedata-to-graphics/DataSender/bin/Debug/netcoreapp2.1/DataSender.runtimeconfig.dev.json
+/Users/lassetodt/Projects/realtimedata-to-graphics/DataSender/bin/Debug/netcoreapp2.1/DataSender.dll
+/Users/lassetodt/Projects/realtimedata-to-graphics/DataSender/bin/Debug/netcoreapp2.1/DataSender.pdb
+/Users/lassetodt/Projects/realtimedata-to-graphics/DataSender/obj/Debug/netcoreapp2.1/DataSender.dll
+/Users/lassetodt/Projects/realtimedata-to-graphics/DataSender/obj/Debug/netcoreapp2.1/DataSender.pdb
